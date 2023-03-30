@@ -2,7 +2,7 @@
 
 It's never been easier to know the weather forecast anywhere in the world
 
-<a href="https://dev-previsao-daiana.netlify.app/"><strong>➥ Project Demo</strong></a>
+<a href="https://dev-previsao-daiana.netlify.app/" target="_blank"><strong>➥ Project Demo</strong></a>
 <br />
 
 ## Prerequisites
